@@ -1,1 +1,1 @@
-web: python dataapp.py
+web: gunicorn app:server
