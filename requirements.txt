@@ -8,3 +8,4 @@ plotly
 Prophet
 scikit-learn
 datetime
+gunicorn 
