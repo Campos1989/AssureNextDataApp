@@ -9,5 +9,3 @@ Prophet
 scikit-learn
 datetime
 gunicorn 
-Pillow
-conda 
