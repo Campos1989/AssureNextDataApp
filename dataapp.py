@@ -47,6 +47,6 @@ app.title = 'Data App - Dashboard Analítico Interativo - AssureNext '
 
 #  Executa o programa
 if __name__ == '__main__':
-    app.run_server(debug = False,port = 4000, host = '0.0.0.0', threaded = True)
+    app.run_server(debug = False, port = 4000, host = '0.0.0.0', threaded = True)
 
 
