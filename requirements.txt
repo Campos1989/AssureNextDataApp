@@ -10,5 +10,6 @@ datetime
 gunicorn 
 Cython
 holidays
-Prophet
+anaconda
+conda
 
