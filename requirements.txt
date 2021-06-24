@@ -10,6 +10,6 @@ datetime
 gunicorn 
 Cython
 holidays
-anaconda
-conda
+pystan==2.19.1.1
+fbprophet
 
