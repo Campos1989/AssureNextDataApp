@@ -8,7 +8,7 @@ plotly
 scikit-learn
 datetime
 gunicorn 
-Cythonpystan==2.140.22
+Cythonpystan
 cmdstanpy==0.9.5
 pystan==2.14
 LunarCalendar==0.0.9
