@@ -1,5 +1,6 @@
 bob-builder==0.0.19
 boto==2.49.0
+xlrd
 docopt==0.6.2
 dash
 dash_bootstrap_components
